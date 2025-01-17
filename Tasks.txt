@@ -5,3 +5,5 @@
 3. Mini training on git
 
 4. Review the code of banded T
+
+5. Make cat cow config driven, record a happy path video and tune.
