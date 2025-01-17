@@ -7,3 +7,5 @@
 4. Review the code of banded T
 
 5. Make cat cow config driven, record a happy path video and tune.
+
+6. Debug Shoulder blade squeeze and attempt the bug fixes. Also record a video with a happy path and a sad path.
