@@ -1,3 +1,5 @@
 1. Setup ssh keys for git cloning to work seamlessly.
 
 2. Sync to https://github.com/jvgenterprises/ExerciseIQ/commit/8a31b66f9e18ba8adbbb22b36fdc12b787df2e59 and follow https://github.com/jvgenterprises/ExerciseIQ/blob/main/README.md 
+
+3. Mini training on git
