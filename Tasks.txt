@@ -2,10 +2,14 @@
 
 2. Sync to https://github.com/jvgenterprises/ExerciseIQ/commit/8a31b66f9e18ba8adbbb22b36fdc12b787df2e59 and follow https://github.com/jvgenterprises/ExerciseIQ/blob/main/README.md DONE
 
-3. Mini training on git
+3. Mini training on git (Pankaj to share a resource)
 
-4. Review the code of banded T
+4. Review the code of banded T (half a day)
 
-5. Make cat cow config driven, record a happy path video and tune.
+5a. Make cat cow config driven (half a day)
+5b. record a happy path video and tune.(depends on analysis is 7)
 
-6. Debug Shoulder blade squeeze and attempt the bug fixes. Also record a video with a happy path and a sad path.
+6a. Debug Shoulder blade squeeze and attempt the bug fixes. (DONE)
+6b. Also record a video with a happy path and a sad path. (depends on analysis in 7)
+
+7. Try out the --save_video flag for the exercises: banded T, banded W and cat cow.
