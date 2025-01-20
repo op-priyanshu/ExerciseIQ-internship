@@ -1,3 +1,2 @@
-banded_T - at line 34, wrong line is commented
-banded_W working fine
-error in cat_cow only
+banded_T , banded_W and cat_cow save video working
+git tutorial done
