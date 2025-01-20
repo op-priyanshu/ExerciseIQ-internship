@@ -1,5 +1,4 @@
 TO DO
 review helping writen code files
-make cat_cow config driven
 record happy video path and tune(have to understand this
 sbs happy and sad path video
