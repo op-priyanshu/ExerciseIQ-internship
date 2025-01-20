@@ -1,0 +1,3 @@
+banded_T - at line 34, wrong line is commented
+banded_W working fine
+error in cat_cow only
