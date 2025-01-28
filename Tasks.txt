@@ -7,11 +7,13 @@
 4. Review the code of banded T (half a day) DONE
 
 5a. Make cat cow config driven (half a day) DONE, we should raise PR, review and merge. - https://github.com/jvgenterprises/ExerciseIQ/pull/3
-5b. record a happy path video and tune.(depends on analysis in 7).
+5b. record a happy path video and tune.(depends on analysis in 7). DONE - recording in https://drive.google.com/drive/folders/1xzaF-LjpgqzpGEc398zqssTVJwp9qeSQ
 
 6a. Debug Shoulder blade squeeze and attempt the bug fixes. (DONE)
-6b. Also record a video with a happy path and a sad path. (depends on analysis in 7)
+6b. Also record a video with a happy path and a sad path. (depends on analysis in 7) PARTIALLY DONE - recording in https://drive.google.com/drive/folders/1xzaF-LjpgqzpGEc398zqssTVJwp9qeSQ
 
 7. Try out the --save_video flag for the exercises: banded T, banded W and cat cow.
 Observation: Sometimes there is an error during startup, also sometimes there is a partial recording as the error happens midway.
+Tracking Issues were filed https://github.com/jvgenterprises/ExerciseIQ/issues/1 and https://github.com/jvgenterprises/ExerciseIQ/issues/2
+Currently not a blocker to save the videos.
 
