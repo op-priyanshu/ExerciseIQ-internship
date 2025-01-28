@@ -2,11 +2,11 @@
 
 2. Sync to https://github.com/jvgenterprises/ExerciseIQ/commit/8a31b66f9e18ba8adbbb22b36fdc12b787df2e59 and follow https://github.com/jvgenterprises/ExerciseIQ/blob/main/README.md DONE
 
-3. Mini training on git - https://www.youtube.com/watch?v=zTjRZNkhiEU looks promising.
+3. Mini training on git - https://www.youtube.com/watch?v=zTjRZNkhiEU looks promising. ALMOST DONE
 
 4. Review the code of banded T (half a day) DONE
 
-5a. Make cat cow config driven (half a day) DONE, we should raise PR, review and merge.
+5a. Make cat cow config driven (half a day) DONE, we should raise PR, review and merge. - https://github.com/jvgenterprises/ExerciseIQ/pull/3
 5b. record a happy path video and tune.(depends on analysis in 7).
 
 6a. Debug Shoulder blade squeeze and attempt the bug fixes. (DONE)
