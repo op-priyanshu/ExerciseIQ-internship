@@ -1,5 +1,4 @@
 TO DO
-record cat_coe happy video path and tune(have to understand this
-sbs happy and sad path video
-check line 132 in cat cow code, if needed out of loop
+sad path video
 make cat cow and sbs skip landmarks if not visible or tweak to make visibility better
+
