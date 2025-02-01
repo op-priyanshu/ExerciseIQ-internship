@@ -24,6 +24,6 @@ c. Hip Abduction (side lying)
 d. Cobra pose
 e. Back isometric (pelvic tilt)
 
-We created a stand alone program to detect the pose of lying down based on input images.
+We created a stand alone program (https://github.com/jvgenterprises/ExerciseIQ/blob/jan31/lyingdowndetector.py) to detect the pose of lying down based on input images.
 For the above exercises we need variations of lying down in many exercises. It is imperative to come up with a
 robust lying down pose detector.
