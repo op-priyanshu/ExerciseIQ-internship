@@ -17,3 +17,13 @@ Observation: Sometimes there is an error during startup, also sometimes there is
 Tracking Issues were filed https://github.com/jvgenterprises/ExerciseIQ/issues/1 and https://github.com/jvgenterprises/ExerciseIQ/issues/2
 Currently not a blocker to save the videos.
 
+8. We started working on a new set of back exercises - 5 in total.
+a. Prone Straight Leg Raise
+b. Straight Leg Raise
+c. Hip Abduction (side lying)
+d. Cobra pose
+e. Back isometric (pelvic tilt)
+
+We created a stand alone program to detect the pose of lying down based on input images.
+For the above exercises we need variations of lying down in many exercises. It is imperative to come up with a
+robust lying down pose detector.
