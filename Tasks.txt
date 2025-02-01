@@ -27,3 +27,7 @@ e. Back isometric (pelvic tilt)
 We created a stand alone program (https://github.com/jvgenterprises/ExerciseIQ/blob/jan31/lyingdowndetector.py) to detect the pose of lying down based on input images.
 For the above exercises we need variations of lying down in many exercises. It is imperative to come up with a
 robust lying down pose detector.
+
+Lets record 1 video of 5 to 10 repeats per back exercise. location = https://drive.google.com/drive/folders/1xzaF-LjpgqzpGEc398zqssTVJwp9qeSQ
+
+We can create a universal debug tool to take a config of landmarks and angles and display them for any video.
